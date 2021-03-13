@@ -11,7 +11,7 @@
 2. I have used PostgreSQL as a database to store all the materials under material table.
 
 ## Client
-1. Implemented frontend using React, Bootstrap, Javascript ES6 and hooks.
+1. Implemented frontend using React, Bootstrap, Javascript ES6 and React hooks.
 
 
 ## Command to run the Application
